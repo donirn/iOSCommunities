@@ -126,7 +126,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 ### CocoaHeads Kyiv
 
 [Web](http://cocoaheads.org/ua/Kyiv/index.html)
-
+k
 ### Dnipro
 
 ### CocoaHeads Dnepropetrovsk
